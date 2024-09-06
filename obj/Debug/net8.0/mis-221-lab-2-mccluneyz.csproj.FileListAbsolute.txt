@@ -1,0 +1,15 @@
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-2-mccluneyz\obj\Debug\net8.0\mis-221-lab-2-mccluneyz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-2-mccluneyz\obj\Debug\net8.0\mis-221-lab-2-mccluneyz.AssemblyInfoInputs.cache
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-2-mccluneyz\obj\Debug\net8.0\mis-221-lab-2-mccluneyz.AssemblyInfo.cs
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-2-mccluneyz\obj\Debug\net8.0\mis-221-lab-2-mccluneyz.csproj.CoreCompileInputs.cache
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-2-mccluneyz\obj\Debug\net8.0\mis-221-lab-2-mccluneyz.sourcelink.json
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-2-mccluneyz\bin\Debug\net8.0\mis-221-lab-2-mccluneyz.exe
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-2-mccluneyz\bin\Debug\net8.0\mis-221-lab-2-mccluneyz.deps.json
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-2-mccluneyz\bin\Debug\net8.0\mis-221-lab-2-mccluneyz.runtimeconfig.json
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-2-mccluneyz\bin\Debug\net8.0\mis-221-lab-2-mccluneyz.dll
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-2-mccluneyz\bin\Debug\net8.0\mis-221-lab-2-mccluneyz.pdb
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-2-mccluneyz\obj\Debug\net8.0\mis-221-lab-2-mccluneyz.dll
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-2-mccluneyz\obj\Debug\net8.0\refint\mis-221-lab-2-mccluneyz.dll
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-2-mccluneyz\obj\Debug\net8.0\mis-221-lab-2-mccluneyz.pdb
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-2-mccluneyz\obj\Debug\net8.0\mis-221-lab-2-mccluneyz.genruntimeconfig.cache
+C:\Users\mcclu\Documents\MIS221_Repos\mis-221-lab-2-mccluneyz\obj\Debug\net8.0\ref\mis-221-lab-2-mccluneyz.dll
